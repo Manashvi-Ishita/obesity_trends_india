@@ -199,7 +199,7 @@ git clone https://github.com/Manashvi-Ishita/obesity_trends_india.git
 
 2. Navigate to project folder
 ```bash
-cd obesity_analysis
+cd cd obesity_trends_india  
 ```
 
 3. Install required packages
@@ -255,4 +255,4 @@ jupyter notebook
 ## Author
 **Manashvi Ishita**
 - GitHub: [Manashvi-Ishita](https://github.com/Manashvi-Ishita)
-- LinkedIn:[Manashvi Ishita](https://www.linkedin.com/in/manashvi-ishita)
+- LinkedIn: [Manashvi Ishita](https://www.linkedin.com/in/manashvi-ishita)
